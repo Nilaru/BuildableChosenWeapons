@@ -1,0 +1,2 @@
+[BuildableChosenWeapons.X2DownloadableContentInfo_BuildableChosenWeapons]
+DLCIdentifier="BuildableChosenWeapons"
